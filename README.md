@@ -44,9 +44,9 @@ WHERE SFI.APPROVED_STATUS = 'A'
 ORDER BY SFI.COMPOSITION;
 ```
 ## ✅ Important Rules
-RETURN_VALUE → must be single column
-DISPLAY_VALUE → user-visible column
-Include all extra columns in SELECT
+- RETURN_VALUE → must be single column
+- DISPLAY_VALUE → user-visible column
+- Include all extra columns in SELECT
 
 ## 🧩 Step 2: Create Page Items
 
